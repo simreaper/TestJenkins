@@ -16,10 +16,11 @@ public class Arraylist {
 		Arraylist s1 = new Arraylist(101, "Just wait and watch");
 		Arraylist s2 = new Arraylist(102, "Just wait and watch part 2");
 		Arraylist s3 = new Arraylist(103, "Just wait and watch part 3");
-		
+		Arraylist s4 = new Arraylist(104, "Just wait and watch part 3");
 		list.add(s1);
 		list.add(s2);
 		list.add(s3);
+		list.add(s4);
 		ArrayList<Integer> l1 = new ArrayList<Integer>();
 		l1.add(22);
 		l1.add(24);
